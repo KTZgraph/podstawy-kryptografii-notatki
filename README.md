@@ -49,6 +49,6 @@ Notatki i programy wspomagajace samodzielną naukę kryptografii z elementami al
 46. Nie tylko Enigma. Ryba, która przemówiła. Wydanie I, Wydawnictwo Naukowe PWN SA 2013, ISBN 978-83-01-17373-9
 47. Enigma Złamanie kodu U-bootów 1939-1943, David Kahn, Wydawnictwo MAGNUM sp. z o.o. 2005, ISBN 83-89656-20-5
 48. Enigma Poznańskie Ślady, pod redakcją Szymona Mazura, Wydawnictwo Miejsckie Posnania 2021, ISBN 978-83-7768-294-4
-49. Wspomnienia z mej pracy w Biurze Szyfrów Oddziału II Sztabu Głównego w latach 1930–1945, Marian Rejewski, Wydawnictwo Naukowe UAM 2018, ISBN 9788323226475
+49. Wspomnienia z mej pracy w Biurze Szyfrów Oddziału II Sztabu Głównego w latach 1930–1945 Wydanie II, Marian Rejewski, Wydawnictwo Naukowe UAM 2021, ISBN 978-83-232-2647-5
 
 * zbiór prywatny - nie jest to reklama
