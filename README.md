@@ -15,7 +15,7 @@ Notatki i programy wspomagajace samodzielną naukę kryptografii z elementami al
 12. Zastosowanie Ciał Skończonych i Krzywych Eliptycznych w Kryptografii Wydanie II, Jerzy Gawinecki Janusz Szmidt, Wydawca: Wojskowa Akademia Techniczna, Instytut Matematyki i Badań Operacyjnych, Wydział Cybernetyki, Współwydawca: belstudio 2002, ISBN 83-88442-40-6
 13. Zbiór zadań z podstaw teoretycznych kryptografii i ochrony informacji Wydanie I, Tomasz Adamski, Oficyna Wydawnicza Politechniki Warszawskiej 2014, ISBN 978-83-7814-318-5
 14. Sekrety Kryptografii Metody i zasady działania kryptologii Wydanie III, Friedrich L. Bauer, Helion 2002 (?) , ISBN: 83-7197-960-6
-15. Kryptografia w C i C++, Michael Welschenbach, Wydawnictwo MIKOM 2022, ISBN 83-7279-247-X
+15. Kryptografia w C i C++, Michael Welschenbach, Wydawnictwo MIKOM 2002, ISBN 83-7279-247-X
 16. Wstęp do kryptologii Wydanie III, Janusz Szmidt Michał Misztal, Wyższa Szkoła Informatyki Stosowanej i Zarządzania, 2004, ISBN 83-88311-41-7
 17. Kryptologia. Budowa i łamanie zabezpieczeń Wydanie I, Reinhard Wobst, Wydawnictwo RM 2002, ISBN 83-7243-068-3
 18. Algorytmy Kryptograficzne w Pythonie Wprowadzenie, Shannon W.Bray, Helion 2021, ISBN: 978-83-283-7729-5
